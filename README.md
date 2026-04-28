@@ -6,5 +6,9 @@ SafeReach is a mobile app UI/UX design built in Figma to help users stay safe du
 You can view the full design here:  
 👉 [Click to open Figma Design](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1)
 
-👉 prototype link :
-https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1
+## 🎨 UI/UX Prototype (Figma)
+
+You can interact with the full prototype here:  
+
+👉 [Click to view Figma Prototype](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1
+)
