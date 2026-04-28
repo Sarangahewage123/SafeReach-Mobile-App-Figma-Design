@@ -18,7 +18,7 @@ You can explore the full design file and interactive prototype below:
 👉 [View Figma Design](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1)
 
 ### 📱 Interactive Prototype
-👉 [View Figma Prototype](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1
+👉 [View Figma Prototype](https://www.figma.com/proto/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=35-2&t=01ZuPSHY4B3VBTPA-1
 )
 
 ---
