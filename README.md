@@ -1,14 +1,68 @@
-# SafeReach-Mobile-App-Figma-Design
-SafeReach is a mobile app UI/UX design built in Figma to help users stay safe during emergencies. It features a clean interface with quick access to SOS alerts, live updates, and essential tools designed for fast and easy use in critical moments.
+# 🚀 SafeReach Mobile App – UI/UX Design
 
-## 🎨 UI/UX Design (Figma)
+A modern mobile application UI/UX design created in Figma for a safety-focused digital experience.
 
-You can view the full design here:  
-👉 [Click to open Figma Design](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1)
+---
 
-## 🎨 UI/UX Prototype (Figma)
+## 🎯 Project Overview
 
-You can interact with the full prototype here:  
+SafeReach is a mobile app concept designed to enhance user safety and quick access to emergency support. The design focuses on clean UI, user-friendly navigation, and fast interaction during critical situations.
 
-👉 [Click to view Figma Prototype](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1
+---
+
+## 🎨 UI/UX Design & Prototype
+
+You can explore the full design file and interactive prototype below:
+
+### 🎨 Design File
+👉 [View Figma Design](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1)
+
+### 📱 Interactive Prototype
+👉 [View Figma Prototype](https://www.figma.com/design/Hr2Nde8xZqh79diyfdgdkr/SafeReach-mobile-app?node-id=0-1&t=01ZuPSHY4B3VBTPA-1
 )
+
+---
+
+## 📱 Key Screens
+
+- Splash Screen  
+- Onboarding Flow  
+- Home Dashboard  
+- Emergency Alert Screen  
+  SoS & Settings  
+
+---
+
+## 🧠 Design Focus
+
+- Minimal & clean UI  
+- Fast user interaction  
+- Accessibility-first approach  
+- Mobile-first design principles  
+
+---
+
+## 🛠 Tools Used
+
+- Figma (UI/UX Design)
+- Prototype Mode (User Flow)
+- Auto Layout & Components
+
+---
+
+## 📌 Purpose of Project
+
+This project was created to practice real-world UI/UX design workflow and build a portfolio-ready mobile app concept.
+
+---
+
+## 👨‍💻 Designer
+
+**Saranga Hewage**
+
+- UI/UX Designer (Student)  
+- Passionate about mobile app design and user experience  
+
+---
+
+⭐ If you like this project, feel free to star the repo!
